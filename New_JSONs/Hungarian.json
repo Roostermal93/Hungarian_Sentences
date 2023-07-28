@@ -1,0 +1,277 @@
+{
+    "count": 45,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "017698f6-e2b3-42de-af05-45811a060555",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "12d35078-d91c-495e-bbdf-da191325a97e",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1c2c93a7-60ec-44a0-820d-914ab3e2e0e2",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1cc9f6fe-fd92-48c3-a063-3578958db50c",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1f69839c-e762-4cc5-953d-044ababaa5f4",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "23bc3d34-4e5f-40d1-80a1-473893a942d9",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2a172e78-520f-49a1-b63b-1d17bbd7d949",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2b28ce16-14d5-4db6-a6e0-423f3f40c24a",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2e404fcc-4113-4988-93ed-2edb9d6bae26",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2f438d0d-7b26-4edc-aec8-cea7e39e651d",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "3049edc3-b17e-4e9c-a45e-d0bdadb0f9ed",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "31765660-fec7-4caf-95c8-3a4298a5fc13",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "35e0af68-8420-4a47-b0a2-08dddaaa072b",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "39ec9d66-54dc-4f48-b216-9730e0c1be3f",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "3be3bfd5-a8d5-40d5-b035-9676ccfe7aa2",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "430f6e09-20de-4d7b-b929-0a7ecadadb9a",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "490e9b20-a548-4afb-9bcb-979ba91d209a",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "60cd7a05-9d24-454f-8f27-373744a77c47",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "63df3778-07ba-47d2-8fc9-1df67871c0c1",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "65b75dde-f797-461b-9e5f-b44446a4d405",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "65dd7425-482a-49a2-8715-27993e17f411",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "663bda2e-7197-45fe-8fcc-7b28548b4fb0",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "6a4f64de-a9ba-427f-a405-c14e18bbf422",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7b944b62-aa07-465b-b583-54b372a27762",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "8234bca2-922c-4dfd-82f5-c818d4f090a2",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "90195731-29f6-45dc-abc0-46246a56d161",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "90f20fd8-5d70-4825-bc0a-9f81e2dafa9a",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "918304b5-7fdc-4751-924f-9108143cee17",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "9289b5b9-8654-4dc5-a28c-adcad879a990",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "92f3a159-760c-4c92-94d4-610156ccc89c",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "9ca000b3-c0a4-4e16-b779-1bc1af464fb1",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "9fa8d9b8-5c62-4223-afd9-17680d11a053",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ac100918-0ba5-4b60-a609-e34923108ebf",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ac136970-e7af-42cb-8a6b-947ff9b21806",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "bba367fb-1237-48a8-bc7a-8f1f0cafc44a",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "bc04cd9a-12af-4ea5-a5c9-c9e4042c74c9",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c6e612d1-c929-4cc4-90e8-9ee5b5eee6e2",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c712a554-cbef-4b46-8e07-96f9d6ccc5d6",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "cb280448-765c-48cd-92df-57f504446603",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "cf78b2bc-19d0-43a3-8dcf-0ae55499c4ae",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d10d159e-fc63-4df4-806c-235f0d92c704",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d57e541b-ff15-4224-8f80-01e3e304e042",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "def7fd3f-c28c-46ba-986e-09c711acd6bc",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e5868ed3-33b7-4ab2-8b33-6022ae05fff2",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "fbe2bc41-a799-4e7d-b099-53ad4ef2f093",
+            "collectionId": "Hungarian",
+            "type": "Sentences",
+            "status": "private"
+        }
+    ]
+}
